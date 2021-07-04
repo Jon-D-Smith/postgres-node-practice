@@ -1,0 +1,24 @@
+{
+  "name": "postgres-node-practice",
+  "version": "1.0.0",
+  "description": "Practicing postgres in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-D-Smith/postgres-node-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-D-Smith/postgres-node-practice/issues"
+  },
+  "homepage": "https://github.com/Jon-D-Smith/postgres-node-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
